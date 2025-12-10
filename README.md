@@ -1,6 +1,7 @@
 # smart-rate-limit
 
 A lightweight and efficient rate limiting library for Node.js applications.
+[NPM registery link](https://www.npmjs.com/package/@akshat91420/smart-rate-limit)
 
 ## Features
 

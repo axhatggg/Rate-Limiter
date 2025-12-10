@@ -1,0 +1,26 @@
+{
+  "name": "@akshat91420/smart-rate-limit",
+  "version": "1.0.0",
+  "description": "A smart hybrid rate limiter for Node.js and browser.",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "rate-limit",
+    "rate-limiter",
+    "token-bucket",
+    "sliding-window",
+    "express-middleware"
+  ],
+  "author": "Akshat Gupta",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "@akshat91420/smart-rate-limit": "^1.0.0"
+  }
+}

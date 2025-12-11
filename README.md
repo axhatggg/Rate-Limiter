@@ -8,7 +8,6 @@ A lightweight and efficient rate limiting library for Node.js applications.
 - Simple and intuitive API
 - Multiple rate limiting strategies
 - In-memory storage with optional Redis support
-- TypeScript support
 - Zero dependencies
 
 ## Installation
@@ -25,9 +24,6 @@ npm install @akshat91420/smart-rate-limit
 - `windowMs` (number): Time window in milliseconds
 - `maxRequests` (number): Maximum requests per window
 
-### `check(key)`
-
-Returns `true` if request is allowed, `false` otherwise.
 ## Usage
 
 ```javascript
